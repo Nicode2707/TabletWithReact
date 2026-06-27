@@ -130,11 +130,13 @@ TabletWithReact
 ✨ Notes Included
 
 ---
-
 # 📸 Preview
 
-<img src="assets/react-preview.png">
+<p align="center">
+  <img src="./react-preview.png" alt="React Preview" width="90%">
+</p>
 
+---
 ---
 
 # ⭐ Support
